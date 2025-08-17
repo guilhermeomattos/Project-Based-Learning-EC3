@@ -1,14 +1,70 @@
-# Project-Based-Learning-EC3
+# 🌊 Project-Based-Learning-EC3  
+### Simulation of Transverse Wave Propagation in an Elastic String  
 
-Simulação da Propagação de Onda Transversal em Corda Elástica
-Este projeto faz parte de um trabalho acadêmico desenvolvido na disciplina de Programação Orientada a Objetos, e tem como objetivo a implementação de um software para simular a propagação de uma onda transversal em uma corda elástica esticada. A simulação considera a propagação de uma onda periódica a partir de uma fonte emissora, levando em conta a equação da onda e a sua representação ao longo do tempo.
+📌 **Academic project** developed for the **Object-Oriented Programming** course, focused on simulating the propagation of a transverse wave along a stretched elastic string.  
 
-Objetivo
-Desenvolver um software em Java que simule a propagação de uma onda transversal ao longo de uma corda elástica esticada de 1 metro de comprimento. O software calculará a posição vertical (ordenada 𝑦(𝑥,𝑡)
-y(x,t)) de diferentes pontos da corda espaçados em 1 cm, usando uma aproximação da função seno via Polinômio de Taylor, garantindo que o erro de cálculo seja inferior a um valor máximo definido pelo usuário.
+---
 
-Este projeto envolve conteúdos das disciplinas de:
-Programação Orientada a Objetos: Conceitos de classes, herança, polimorfismo, encapsulamento, além da conexão com banco de dados e criação de interface gráfica.
-Física Geral e Experimental II: Estudo de ondas e propagação de ondas transversais.
-Cálculo Avançado: Uso de Séries de Taylor para aproximação da função seno.
-Banco de Dados II: Criação de um banco de dados para armazenar os resultados da simulação.
+## 🎯 Objective  
+
+Develop a **Java application** to simulate the propagation of a **transverse wave** in a 1-meter-long elastic string.  
+
+- The software calculates the vertical position **y(x,t)** of equally spaced points (every 1 cm) along the string.  
+- The sine function is approximated using the **Taylor Polynomial Series**, ensuring the error stays below a maximum value defined by the user.  
+- The simulation represents the wave evolution **over time**.  
+
+---
+
+## 📚 Disciplines Involved  
+
+- **Object-Oriented Programming (OOP)**  
+  🔹 Classes, inheritance, polymorphism, encapsulation, database connection, and GUI creation.  
+
+- **Physics II**  
+  🔹 Wave propagation and transverse wave behavior.  
+
+- **Advanced Calculus**  
+  🔹 Taylor Series applied to sine function approximation.  
+
+- **Databases II**  
+  🔹 Database integration to store simulation results.  
+
+---
+
+## 🛠 Tech Stack  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Swing](https://img.shields.io/badge/Java%20Swing-5382a1?style=for-the-badge&logoColor=white)  
+
+---
+
+## 🚀 Features  
+
+- ✅ Simulation of wave propagation over time  
+- ✅ Adjustable wave parameters  
+- ✅ Error control using Taylor Series approximation  
+- ✅ Database integration for results storage  
+- ✅ Simple and intuitive graphical interface  
+
+---
+
+## 📸 Preview  
+
+> *(Add screenshots or GIFs of your project here once available)*  
+
+---
+
+## 👨‍💻 Authors  
+
+- Guilherme Mattos – Computer Engineering Student  
+- Academic project for **Faculdade Engenheiro Salvador Arena**  
+
+---
+
+## 📫 Contact  
+
+<div>
+<a href="mailto:guilherme.domattos@gmail.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/guilherme-mattos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+</div>

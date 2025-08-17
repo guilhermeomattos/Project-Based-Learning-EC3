@@ -34,8 +34,8 @@ Develop a **Java application** to simulate the propagation of a **transverse wav
 ## 🛠 Tech Stack  
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Swing](https://img.shields.io/badge/Java%20Swing-5382a1?style=for-the-badge&logoColor=white)  
+![MySQL](https://img.shields.io/badge/SQLSERVER-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Swing](https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logoColor=white)  
 
 ---
 
@@ -46,12 +46,6 @@ Develop a **Java application** to simulate the propagation of a **transverse wav
 - ✅ Error control using Taylor Series approximation  
 - ✅ Database integration for results storage  
 - ✅ Simple and intuitive graphical interface  
-
----
-
-## 📸 Preview  
-
-> *(Add screenshots or GIFs of your project here once available)*  
 
 ---
 
